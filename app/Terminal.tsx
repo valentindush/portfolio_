@@ -106,14 +106,14 @@ function Terminal() {
         <span>
             <br/>
             <strong>My Portfolio Highlights:</strong><br/><br/>
-            <a href="https://abacu.rw">ABACU</a>: Reunite with the loved ones by sharing their stories<br/><br/>,
-            <a href="https://invictus.rmf.gov.rw/">Invictus RMF</a>: Invictus software for Road Maintenance Fund<br/><br/>,
-            <a href="https://ismis.minisports.gov.rw/admin/index.php/">Minisports SMIS</a>: MINISPORTS MIS renewed<br/><br/>,
-            <a href="https://github.com/valentindush/hands-on-ML">Hands on ML Projects</a>: Machine learning projects .pynb notebooks<br/><br/>,
-            <a href="https://github.com/valentindush/advanced-computer-vision-projects/tree/master/projects/">Advanced computer vision projects</a>: built with mediapipe<br/><br/>,
-            <a href="https://dush-forms.vercel.app/">Dush forms</a>: A simple web based forms app<br/><br/>,
-            <a href="https://womenforwomenrwanda.org/">WFW - Rwanda</a>: Women for Women Rwanda Website<br/><br/>,
-            <a href="https://github.com/valentindush/News-svelte">News - (News API)</a>: News web built in svelte using news API<br/><br/>,
+            <a href="https://abacu.rw">ABACU</a>: Reunite with the loved ones by sharing their stories<br/><br/>
+            <a href="https://invictus.rmf.gov.rw/">Invictus RMF</a>: Invictus software for Road Maintenance Fund<br/><br/>
+            <a href="https://ismis.minisports.gov.rw/admin/index.php/">Minisports SMIS</a>: MINISPORTS MIS renewed<br/><br/>
+            <a href="https://github.com/valentindush/hands-on-ML">Hands on ML Projects</a>: Machine learning projects .pynb notebooks<br/><br/>
+            <a href="https://github.com/valentindush/advanced-computer-vision-projects/tree/master/projects/">Advanced computer vision projects</a>: built with mediapipe<br/><br/>
+            <a href="https://dush-forms.vercel.app/">Dush forms</a>: A simple web based forms app<br/><br/>
+            <a href="https://womenforwomenrwanda.org/">WFW - Rwanda</a>: Women for Women Rwanda Website<br/><br/>
+            <a href="https://github.com/valentindush/News-svelte">News - (News API)</a>: News web built in svelte using news API<br/><br/>
         </span>
       ),
       contact: (
