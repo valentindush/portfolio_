@@ -8,7 +8,7 @@ export default function Home() {
 
   return (
   <TerminalContextProvider>
-    <div className="w-screen h-screen">
+    <div className="w-screen h-screen overflow-hidden">
       <Terminal />
     </div>
   </TerminalContextProvider>

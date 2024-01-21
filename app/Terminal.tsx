@@ -3,10 +3,10 @@ import { ReactTerminal, TerminalContext } from "react-terminal";
 
 function Terminal() {
     const { setBufferedContent, setTemporaryContent } = React.useContext(TerminalContext);
-    const [theme, setTheme] = React.useState("material-dark");
+    const [theme, setTheme] = React.useState("matrix");
     const [controlBar, setControlBar] = React.useState(true);
     const [controlButtons, setControlButtons] = React.useState(true);
-    const [prompt, setPrompt] = React.useState(">>>");
+    const [prompt, setPrompt] = React.useState("[@dush/web/undefined]$ ");
   
     const commands = {
       help: (
@@ -149,7 +149,7 @@ function Terminal() {
       welcomeMessage={welcomeMessage}
       commands={commands}
       defaultHandler={(command: any, commandArguments: any) => {
-        return `${command} passed on to default handler with arguments ${commandArguments}`;
+        return `${command} command not found`;
       }}
     />);
 }
