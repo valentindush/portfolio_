@@ -89,7 +89,7 @@ function Terminal() {
       },
       
       about: (<span><br />Hello, I'm [<strong>Dushime Valentin</strong>]<br/>
-      Software Engineer | Machine Learning Enthusiast | AI Aficionado<br/><br/>
+      Software Engineer<br/><br/>
       
       🌟 Passionate about transforming ideas into elegant code and solving complex problems with technology.<br/><br/>
       
