@@ -3,7 +3,7 @@ import { ReactTerminal, TerminalContext } from "react-terminal";
 
 function Terminal() {
     const { setBufferedContent, setTemporaryContent } = React.useContext(TerminalContext);
-    const [theme, setTheme] = React.useState("matrix");
+    const [theme, setTheme] = React.useState("dark");
     const [controlBar, setControlBar] = React.useState(true);
     const [controlButtons, setControlButtons] = React.useState(true);
     const [prompt, setPrompt] = React.useState("[@dush/web/undefined]$ ");
@@ -89,7 +89,7 @@ function Terminal() {
       },
       
       about: (<span><br />Hello, I'm [<strong>Dushime Valentin</strong>]<br/>
-      Software Engineer | Machine Learning Enthusiast | AI Aficionado<br/><br/>
+      Software Engineer<br/><br/>
       
       🌟 Passionate about transforming ideas into elegant code and solving complex problems with technology.<br/><br/>
       
