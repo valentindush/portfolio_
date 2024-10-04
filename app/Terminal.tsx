@@ -106,6 +106,8 @@ function Terminal() {
         <span>
             <br/>
             <strong>My Portfolio Highlights:</strong><br/><br/>
+            <a href="http://www.cleankigali.kigalicity.gov.rw/">CleanKigali</a>: A Smart Waste Management IoT solution<br/><br/>
+            <a href="https://scriptylabs.rw/">ScriptyLabs</a>: We design, develop and host web apps, We sell .rw domains we maintain and consult your already built software<br/><br/>
             <a href="https://abacu.rw">ABACU</a>: Reunite with the loved ones by sharing their stories<br/><br/>
             <a href="https://invictus.rmf.gov.rw/">Invictus RMF</a>: Invictus software for Road Maintenance Fund<br/><br/>
             <a href="https://ismis.minisports.gov.rw/admin/index.php/">Minisports SMIS</a>: MINISPORTS MIS renewed<br/><br/>
@@ -132,7 +134,7 @@ function Terminal() {
     const welcomeMessage = (
       <span>
         Hello, I'm <strong>[Dushime Valentin]</strong><br/>
-        Software Engineer | Machine Learning Enthusiast | AI Aficionado<br/><br/>     
+        Software Engineer<br/><br/>     
         Type "help" for all available commands. 
         
         <br /><br/>
